@@ -1,0 +1,23 @@
+# from pygrabber.dshow_graph import FilterGraph
+# import ctypes
+# from sh import lp
+# from sys import win32
+# Create your views here.
+
+
+
+
+# print(os.system())
+    # print(os.getlogin())
+    # print(os.uname())
+    # print(os.listdir('../../..'))
+    # print(os.times())
+    # print(os.system('lp -o landscape "1.png"'))
+    # lp('-o', 'landscape', 'file.png')
+
+    # dev  = usb.core.find()
+    # dev = re.compile("Bus\s+(?P<bus>\d+)\s+Device\s+(?P<device>\d+).+ID\s(?P<id>\w+:\w+)\s(?P<tag>.+)$", re.I)
+    # df=subprocess.check_output()
+    # print(df.split('\n'))
+    # device = FilterGraph.get_input_device()
+    # print(device)
